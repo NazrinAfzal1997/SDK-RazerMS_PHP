@@ -1,3 +1,5 @@
+# SDK-RazerMS_PHP
+
 # 🚚 Repository Moved
 
 This repository has been moved to a new location and is no longer actively maintained.
@@ -11,8 +13,6 @@ All future updates, bug fixes, and feature enhancements will be published in the
 Thank you for your support.
 
 ---
-
-# SDK-RazerMS_PHP
 
 This is a PHP library for integrating with the Razer Merchant Services (RMS) hosted payment gateway. It provides a simple interface for creating and managing transactions, handling callbacks, and more.
 
@@ -118,3 +118,4 @@ Channel/Partner Enquiry : channel-sa@razer.com <br>
 Media Contact : media-sa@razer.com <br>
 R&D and Tech-related Suggestion : technical-sa@razer.com <br>
 Abuse Reporting : abuse-sa@razer.com
+
