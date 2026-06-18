@@ -1,3 +1,17 @@
+# 🚚 Repository Moved
+
+This repository has been moved to a new location and is no longer actively maintained.
+
+👉 New repository: https://github.com/FiuuPayment/SDK-Fiuu_PHP
+
+Please update your bookmarks, clone URLs, and CI/CD configurations accordingly.
+
+All future updates, bug fixes, and feature enhancements will be published in the new repository.
+
+Thank you for your support.
+
+---
+
 # SDK-RazerMS_PHP
 
 This is a PHP library for integrating with the Razer Merchant Services (RMS) hosted payment gateway. It provides a simple interface for creating and managing transactions, handling callbacks, and more.
@@ -104,4 +118,3 @@ Channel/Partner Enquiry : channel-sa@razer.com <br>
 Media Contact : media-sa@razer.com <br>
 R&D and Tech-related Suggestion : technical-sa@razer.com <br>
 Abuse Reporting : abuse-sa@razer.com
-
